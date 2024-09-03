@@ -1,4 +1,4 @@
-let grade01 = prompt('Vamos calcular o desconto de 10% no produto. \nDigite a primeira nota: ');
+let grade01 = prompt('Vamos calcular a média das suas notas. \nDigite a primeira nota: ');
 let grade02 = prompt('Digite a segunda nota: ');
 let grade03 = prompt('Digite a terceira nota: ');
 

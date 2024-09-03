@@ -8,6 +8,6 @@ varNum = Number(varNum);
 let varAdj = (varNum / 4);
 
 console.log('O valor digitado foi: ' + varNum);
-console.log('O valor das parcelas e:  ' + varAdj);
+console.log('O valor das parcelas é de :  R$' + varAdj);
 
 alert('O numero digitado foi: R$' + varNum + '\ne o valor da parcela é: R$' + varAdj + ' (1/4)');
