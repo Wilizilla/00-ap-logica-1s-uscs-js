@@ -36,5 +36,3 @@ aumento salarial.  O programa deverá exibir o novo salário do usuário.
 7. Escrever um programa Javascript que leia do usuário o tempo total de uma atividade expressa em horas. O programa deverá retornar o tempo correspondente à atividade expresso em minutos.
 
 8. Escrever um programa Javascript que leia um número do usuário. O programa deverá exibir o valor anterior do número e o valor posterior. Por exemplo, se o usuário digitar 10, o programa deverá exibir 9 e 11.
-
-teste
