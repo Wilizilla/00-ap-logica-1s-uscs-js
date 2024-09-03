@@ -9,12 +9,12 @@ let valueNum = Number(valueComa);
 // Ajusta para 2 casas decimais
 let valueDec = parseFloat(valueNum).toFixed(2);
 
-let finalValue = valueNum - (valueNum * 0.2);
+let finalValue = valueNum - (valueNum * 0.1);
 
 // Ajusta o valor final para 2 casas decimais
 finalValue = parseFloat(finalValue).toFixed(2);
 
 console.log('O preço digitado foi: R$' + valueDec);
-console.log('O valor final (- 20%) é: R$' + finalValue);
+console.log('O valor final (- 10%) é: R$' + finalValue);
 
-alert('O preço digitado foi: R$ ' + valueDec +'\nO valor final (+ 20%) é: R$ ' + finalValue );
+alert('O preço digitado foi: R$ ' + valueDec +'\nO valor final (- 10%) é: R$ ' + finalValue );
